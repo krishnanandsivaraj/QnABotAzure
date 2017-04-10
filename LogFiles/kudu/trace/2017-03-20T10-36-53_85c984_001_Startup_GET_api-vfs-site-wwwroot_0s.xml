@@ -1,0 +1,3 @@
+<step title="Startup Request" date="2017-03-20T10:36:53.823" instance="85c984" url="/api/vfs/site/wwwroot/" method="GET" type="request" pid="6476,2,7" ScmType="None" SCM_POST_DEPLOYMENT_ACTIONS_PATH="PostDeployScripts" >
+  <step title="Cleanup Xml Logs" date="2017-03-20T10:36:53.839" /><!-- duration: 0ms -->
+</step><!-- duration: 31ms -->

@@ -1,0 +1,4 @@
+<step title="Incoming Request" date="2017-03-18T15:37:47.729" instance="85c984" url="/api/functions/admin/masterkey" method="GET" type="request" pid="4368,2,6" Connection="Keep-Alive" Host="qandaapp.scm.azurewebsites.net" X-SITE-DEPLOYMENT-ID="qandaapp" WAS-DEFAULT-HOSTNAME="qandaapp.scm.azurewebsites.net" >
+  <step title="FunctionsController.GetMasterKey()" date="2017-03-18T15:37:47.749" /><!-- duration: 371ms -->
+  <step title="Outgoing response" date="2017-03-18T15:37:48.140" type="response" statusCode="200" statusText="OK" Server="Microsoft-IIS/8.0" x-ms-request-id="702a31d0-f7c3-44ed-b057-fd35a8cc0a3d" Cache-Control="private" X-AspNet-Version="4.0.30319" Content-Type="application/json; charset=utf-8" /><!-- duration: 26ms -->
+</step><!-- duration: 459ms -->

@@ -1,0 +1,5 @@
+<step title="Incoming Request" date="2017-04-09T02:15:39.922" instance="6591cf" url="/command" method="POST" type="request" pid="6184,2,7" Connection="Keep-Alive" Content-Length="38" Content-Type="application/json" Authorization="Bas..." Host="qandaapp.scm.azurewebsites.net" X-ARR-LOG-ID="d631a0b7-86b6-4b71-9b85-f1fe37f476dd" X-SITE-DEPLOYMENT-ID="qandaapp" WAS-DEFAULT-HOSTNAME="qandaapp.scm.azurewebsites.net" X-MS-CLIENT-PRINCIPAL-NAME="$qa..." >
+  <step title="Cleanup Xml Logs" date="2017-04-09T02:15:39.922" /><!-- duration: 16ms -->
+  <step title="Executing cd" date="2017-04-09T02:15:39.969" CWD="site\wwwroot" /><!-- duration: 133ms -->
+  <step title="Outgoing response" date="2017-04-09T02:15:40.120" type="response" statusCode="200" statusText="OK" Server="Microsoft-IIS/8.0" x-ms-request-id="d631a0b7-86b6-4b71-9b85-f1fe37f476dd" Cache-Control="private" X-AspNet-Version="4.0.30319" Content-Type="application/json; charset=utf-8" /><!-- duration: 13ms -->
+</step><!-- duration: 211ms -->

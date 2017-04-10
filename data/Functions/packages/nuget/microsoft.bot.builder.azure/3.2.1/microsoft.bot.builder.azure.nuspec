@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Bot.Builder.Azure</id>
+    <version>3.2.1</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/Microsoft/BotBuilder</projectUrl>
+    <iconUrl>http://docs.botframework.com/images/bot_icon.png</iconUrl>
+    <description>Provide Microsoft Azure extensions to the Microsoft Bot Builder.  In particular this includes:
+      * TableLogger -- Activity logger for table storage which allows recording and retrieving conversation activities.
+      * ReplayTranscript -- Replay activity history on any channel.
+      * AzureModule -- Module for setting up components for bot builder based on Azure dependencies
+      * TableBotDataStore -- IBotDataStore implementation based on Azure table storage.
+      * DocumentDbBotDataStore -- IBotDataStore implementation based on Azure table storage.</description>
+    <summary>Microsoft Azure extensions for Microsoft Bot Builder.</summary>
+    <language>en-US</language>
+    <dependencies>
+      <dependency id="Microsoft.Bot.Builder" version="3.5.5" />
+      <dependency id="Microsoft.Bot.Builder.History" version="3.0.3" />
+      <dependency id="Newtonsoft.Json" version="8.0.3" />
+      <dependency id="WindowsAzure.Storage" version="7.2.1" />
+      <dependency id="Microsoft.Azure.DocumentDB" version="1.11.0" />
+    </dependencies>
+  </metadata>
+</package>

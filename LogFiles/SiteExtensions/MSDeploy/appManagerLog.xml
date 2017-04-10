@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+  <entry time="2017-03-18T15:37:19.7070627+00:00" type="Message">
+    <message>Downloading metadata for package path 'bot-packages/csharp_qnabot.zip' from blob 'https://connectorprod.blob.core.windows.net'</message>
+  </entry>
+  <entry time="2017-03-18T15:37:20.035192+00:00" type="Message">
+    <message>The blob has flag IsPremiumApp:. IsPremiumApp returns False</message>
+  </entry>
+  <entry time="2017-03-18T15:37:20.2852218Z" type="Message">
+    <message>Downloading package path 'bot-packages/csharp_qnabot.zip' from blob 'https://connectorprod.blob.core.windows.net'</message>
+  </entry>
+  <entry time="2017-03-18T15:37:20.8238095Z" type="Message">
+    <message>The following parameters were populated: 'IIS Web Application Name'</message>
+  </entry>
+  <entry time="2017-03-18T15:37:20.8238095Z" type="Message">
+    <message>Calling SyncTo() on package.</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.2456903Z" type="Message">
+    <message>Adding file (qandaapp\.gitignore).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.2456903Z" type="Message">
+    <message>Adding file (qandaapp\.gitignore).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.2769404Z" type="Message">
+    <message>Adding directory (qandaapp\.vs).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.2769404Z" type="Message">
+    <message>Adding directory (qandaapp\.vs).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.2969542Z" type="Message">
+    <message>Adding directory (qandaapp\.vs\Bot).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.2969542Z" type="Message">
+    <message>Adding directory (qandaapp\.vs\Bot).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3081905Z" type="Message">
+    <message>Adding directory (qandaapp\.vs\Bot\v14).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3081905Z" type="Message">
+    <message>Adding directory (qandaapp\.vs\Bot\v14).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3081905Z" type="Message">
+    <message>Adding file (qandaapp\.vs\Bot\v14\.suo).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3081905Z" type="Message">
+    <message>Adding file (qandaapp\.vs\Bot\v14\.suo).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3238176Z" type="Message">
+    <message>Adding file (qandaapp\Bot.sln).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3238176Z" type="Message">
+    <message>Adding file (qandaapp\Bot.sln).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3238176Z" type="Message">
+    <message>Adding file (qandaapp\commands.json).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3238176Z" type="Message">
+    <message>Adding file (qandaapp\commands.json).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3394618Z" type="Message">
+    <message>Adding file (qandaapp\debughost.cmd).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3394618Z" type="Message">
+    <message>Adding file (qandaapp\debughost.cmd).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3394618Z" type="Message">
+    <message>Updating file (qandaapp\host.json).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3394618Z" type="Message">
+    <message>Updating file (qandaapp\host.json).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3394618Z" type="Message">
+    <message>Adding directory (qandaapp\messages).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.3394618Z" type="Message">
+    <message>Adding directory (qandaapp\messages).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4019835Z" type="Message">
+    <message>Adding file (qandaapp\messages\BasicQnAMakerDialog.csx).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4019835Z" type="Message">
+    <message>Adding file (qandaapp\messages\BasicQnAMakerDialog.csx).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4175874Z" type="Message">
+    <message>Adding file (qandaapp\messages\function.json).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4175874Z" type="Message">
+    <message>Adding file (qandaapp\messages\function.json).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4175874Z" type="Message">
+    <message>Adding file (qandaapp\messages\project.json).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4175874Z" type="Message">
+    <message>Adding file (qandaapp\messages\project.json).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4332267Z" type="Message">
+    <message>Adding file (qandaapp\messages\run.csx).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4332267Z" type="Message">
+    <message>Adding file (qandaapp\messages\run.csx).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4332267Z" type="Message">
+    <message>Adding directory (qandaapp\PostDeployScripts).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4332267Z" type="Message">
+    <message>Adding directory (qandaapp\PostDeployScripts).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4488188Z" type="Message">
+    <message>Adding file (qandaapp\PostDeployScripts\runGulp.cmd).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4488188Z" type="Message">
+    <message>Adding file (qandaapp\PostDeployScripts\runGulp.cmd).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4488188Z" type="Message">
+    <message>Adding file (qandaapp\readme.md).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.4488188Z" type="Message">
+    <message>Adding file (qandaapp\readme.md).</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.5426008Z" type="Message">
+    <message>Total Changes: 17 (16 added, 0 deleted, 1 updated, 0 parameters changed, 23711 bytes copied)</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.6050699Z" type="Message">
+    <message>Syncing httpTrigger of messages</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.6050699Z" type="Message">
+    <message>Skipping http of messages</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.6260607Z" type="Message">
+    <message>POST qandaapp.scm.azurewebsites.net/operations/settriggers, x-ms-request-id: fa4c437b-4584-4479-894d-d817a36417cc</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.6260607Z" type="Message">
+    <message>Body: [
+  {
+    "type": "httpTrigger",
+    "direction": "in",
+    "webHookType": "genericJson",
+    "name": "req",
+    "functionName": "messages"
+  }
+]</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.7479521Z" type="Message">
+    <message>Response: OK</message>
+  </entry>
+  <entry time="2017-03-18T15:37:21.7479521Z" type="Message">
+    <message>AutoSwap is not enabled</message>
+  </entry>
+</entries>
